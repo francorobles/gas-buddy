@@ -19,8 +19,8 @@ public class CompanyService {
         return repo.findAll();
     }
 
-    public void save(Company product) {
-        repo.save(product);
+    public void save(Company company) {
+        repo.save(company);
     }
 
     public Company get(Integer id) {
