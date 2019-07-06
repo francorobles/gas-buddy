@@ -1,0 +1,7 @@
+com\tribukaldero\model\company\Company.class
+com\tribukaldero\controller\v1\FuelControllerClass.class
+com\tribukaldero\service\CompanyService.class
+com\tribukaldero\MainApplicationClass.class
+com\tribukaldero\model\fuel\Fuel.class
+com\tribukaldero\repository\company\CompanyRepository.class
+com\tribukaldero\controller\v1\CompanyControllerClass.class
