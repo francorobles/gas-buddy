@@ -1,7 +1,9 @@
 C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\repository\company\CompanyRepository.java
 C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\controller\v1\FuelControllerClass.java
-C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\model\fuel\Fuel.java
 C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\model\company\Company.java
+C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\service\FuelService.java
 C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\MainApplicationClass.java
 C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\controller\v1\CompanyControllerClass.java
+C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\repository\fuel\FuelTypeRepository.java
 C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\service\CompanyService.java
+C:\Users\francorobles\Documents\Java Projects\gas-buddy\src\main\java\com\tribukaldero\model\fuel\FuelType.java

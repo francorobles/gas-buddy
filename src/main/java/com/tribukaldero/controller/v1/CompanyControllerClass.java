@@ -14,8 +14,14 @@ public class CompanyControllerClass {
     @Autowired
     private CompanyService companyService;
 
-    @RequestMapping(value = "/companies", method = RequestMethod.GET)
+    @GetMapping(value = "/companies")
     public @ResponseBody List<Company> companies() {
         return companyService.listAll();
+    }
+
+    @PostMapping("/companies")
+    public Company companies(@RequestBody Company company) {
+        companyService.save(company);
+        return company;
     }
 }
